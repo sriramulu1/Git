@@ -1,4 +1,4 @@
-package sri;,
+package sri;
 
 import static org.junit.Assert.assertTrue;
 
